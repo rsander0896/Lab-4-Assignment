@@ -1,4 +1,6 @@
 package com.example.lab4assignment.Shapes;
 
-public class diamond {
+public class diamond  extends Shape{
+    
+
 }
